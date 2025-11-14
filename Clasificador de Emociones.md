@@ -1,9 +1,4 @@
-Perfecto bro, aquí tienes un **README COMPLETO, listo para copiar y pegar**, del **CLASIFICADOR DE EMOCIONES** usando CNN + Streamlit.  
-Todo está escrito para que **cualquier persona pueda reproducir el proyecto SOLO copiando y pegando los comandos**.
-
----
-
-# 😃 **Proyecto 2 – Clasificador de Emociones (CNN + Streamlit)**
+# Clasificador de Emociones (CNN + Streamlit)**
 
 Este proyecto permite **clasificar emociones humanas a partir de imágenes del rostro**, usando:
 
